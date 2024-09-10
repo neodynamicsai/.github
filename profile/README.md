@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/neural-control/.github/main/profile/NeuralControlLogoWhite.png" alt="Neural Control" width="100%"/>
+<img src="https://raw.githubusercontent.com/neural-control/.github/main/profile/LogoDarkBig.png" alt="NeoDynamics" width="100%"/>
